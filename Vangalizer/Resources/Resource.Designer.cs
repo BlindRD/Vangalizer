@@ -26,10 +26,123 @@ namespace Vangalizer
 		
 		public static void UpdateIdValues()
 		{
+			global::FlatUI.Resource.Attribute.backgroundColor = global::Vangalizer.Resource.Attribute.backgroundColor;
+			global::FlatUI.Resource.Attribute.cornerRadius = global::Vangalizer.Resource.Attribute.cornerRadius;
+			global::FlatUI.Resource.Attribute.customBackgroundColor = global::Vangalizer.Resource.Attribute.customBackgroundColor;
+			global::FlatUI.Resource.Attribute.fieldStyle = global::Vangalizer.Resource.Attribute.fieldStyle;
+			global::FlatUI.Resource.Attribute.fontFamily = global::Vangalizer.Resource.Attribute.fontFamily;
+			global::FlatUI.Resource.Attribute.fontWeight = global::Vangalizer.Resource.Attribute.fontWeight;
+			global::FlatUI.Resource.Attribute.isFullFlat = global::Vangalizer.Resource.Attribute.isFullFlat;
+			global::FlatUI.Resource.Attribute.size = global::Vangalizer.Resource.Attribute.size;
+			global::FlatUI.Resource.Attribute.textAppearance = global::Vangalizer.Resource.Attribute.textAppearance;
+			global::FlatUI.Resource.Attribute.textColor = global::Vangalizer.Resource.Attribute.textColor;
+			global::FlatUI.Resource.Attribute.textPadding = global::Vangalizer.Resource.Attribute.textPadding;
+			global::FlatUI.Resource.Attribute.theme = global::Vangalizer.Resource.Attribute.theme;
+			global::FlatUI.Resource.Id.Comfortaa = global::Vangalizer.Resource.Id.Comfortaa;
+			global::FlatUI.Resource.Id.DroidSans = global::Vangalizer.Resource.Id.DroidSans;
+			global::FlatUI.Resource.Id.OpenSans = global::Vangalizer.Resource.Id.OpenSans;
+			global::FlatUI.Resource.Id.Roboto = global::Vangalizer.Resource.Id.Roboto;
+			global::FlatUI.Resource.Id.bold = global::Vangalizer.Resource.Id.bold;
+			global::FlatUI.Resource.Id.box = global::Vangalizer.Resource.Id.box;
+			global::FlatUI.Resource.Id.dark = global::Vangalizer.Resource.Id.dark;
+			global::FlatUI.Resource.Id.darker = global::Vangalizer.Resource.Id.darker;
+			global::FlatUI.Resource.Id.extrabold = global::Vangalizer.Resource.Id.extrabold;
+			global::FlatUI.Resource.Id.extralight = global::Vangalizer.Resource.Id.extralight;
+			global::FlatUI.Resource.Id.flat = global::Vangalizer.Resource.Id.flat;
+			global::FlatUI.Resource.Id.light = global::Vangalizer.Resource.Id.light;
+			global::FlatUI.Resource.Id.main = global::Vangalizer.Resource.Id.main;
+			global::FlatUI.Resource.Id.none = global::Vangalizer.Resource.Id.none;
+			global::FlatUI.Resource.Id.regular = global::Vangalizer.Resource.Id.regular;
+			global::FlatUI.Resource.Id.transparent = global::Vangalizer.Resource.Id.transparent;
+			global::FlatUI.Resource.String.library_name = global::Vangalizer.Resource.String.library_name;
+			global::FlatUI.Resource.Styleable.FlatUI = global::Vangalizer.Resource.Styleable.FlatUI;
+			global::FlatUI.Resource.Styleable.FlatUI_backgroundColor = global::Vangalizer.Resource.Styleable.FlatUI_backgroundColor;
+			global::FlatUI.Resource.Styleable.FlatUI_cornerRadius = global::Vangalizer.Resource.Styleable.FlatUI_cornerRadius;
+			global::FlatUI.Resource.Styleable.FlatUI_customBackgroundColor = global::Vangalizer.Resource.Styleable.FlatUI_customBackgroundColor;
+			global::FlatUI.Resource.Styleable.FlatUI_fieldStyle = global::Vangalizer.Resource.Styleable.FlatUI_fieldStyle;
+			global::FlatUI.Resource.Styleable.FlatUI_fontFamily = global::Vangalizer.Resource.Styleable.FlatUI_fontFamily;
+			global::FlatUI.Resource.Styleable.FlatUI_fontWeight = global::Vangalizer.Resource.Styleable.FlatUI_fontWeight;
+			global::FlatUI.Resource.Styleable.FlatUI_isFullFlat = global::Vangalizer.Resource.Styleable.FlatUI_isFullFlat;
+			global::FlatUI.Resource.Styleable.FlatUI_size = global::Vangalizer.Resource.Styleable.FlatUI_size;
+			global::FlatUI.Resource.Styleable.FlatUI_textAppearance = global::Vangalizer.Resource.Styleable.FlatUI_textAppearance;
+			global::FlatUI.Resource.Styleable.FlatUI_textColor = global::Vangalizer.Resource.Styleable.FlatUI_textColor;
+			global::FlatUI.Resource.Styleable.FlatUI_textPadding = global::Vangalizer.Resource.Styleable.FlatUI_textPadding;
+			global::FlatUI.Resource.Styleable.FlatUI_theme = global::Vangalizer.Resource.Styleable.FlatUI_theme;
+		}
+		
+		public partial class Animation
+		{
+			
+			// aapt resource value: 0x7f040000
+			public const int fade_in = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int fadeInBtn = 2130968577;
+			
+			static Animation()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Animation()
+			{
+			}
+		}
+		
+		public partial class Array
+		{
+			
+			// aapt resource value: 0x7f060000
+			public const int yes = 2131099648;
+			
+			static Array()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Array()
+			{
+			}
 		}
 		
 		public partial class Attribute
 		{
+			
+			// aapt resource value: 0x7f01000a
+			public const int backgroundColor = 2130771978;
+			
+			// aapt resource value: 0x7f010004
+			public const int cornerRadius = 2130771972;
+			
+			// aapt resource value: 0x7f01000b
+			public const int customBackgroundColor = 2130771979;
+			
+			// aapt resource value: 0x7f010008
+			public const int fieldStyle = 2130771976;
+			
+			// aapt resource value: 0x7f010002
+			public const int fontFamily = 2130771970;
+			
+			// aapt resource value: 0x7f010003
+			public const int fontWeight = 2130771971;
+			
+			// aapt resource value: 0x7f010007
+			public const int isFullFlat = 2130771975;
+			
+			// aapt resource value: 0x7f010006
+			public const int size = 2130771974;
+			
+			// aapt resource value: 0x7f010001
+			public const int textAppearance = 2130771969;
+			
+			// aapt resource value: 0x7f010009
+			public const int textColor = 2130771977;
+			
+			// aapt resource value: 0x7f010005
+			public const int textPadding = 2130771973;
+			
+			// aapt resource value: 0x7f010000
+			public const int theme = 2130771968;
 			
 			static Attribute()
 			{
@@ -60,8 +173,65 @@ namespace Vangalizer
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050000
-			public const int MyButton = 2131034112;
+			// aapt resource value: 0x7f070003
+			public const int Comfortaa = 2131165187;
+			
+			// aapt resource value: 0x7f070004
+			public const int DroidSans = 2131165188;
+			
+			// aapt resource value: 0x7f070013
+			public const int MyButton = 2131165203;
+			
+			// aapt resource value: 0x7f070005
+			public const int OpenSans = 2131165189;
+			
+			// aapt resource value: 0x7f070006
+			public const int Roboto = 2131165190;
+			
+			// aapt resource value: 0x7f070007
+			public const int bold = 2131165191;
+			
+			// aapt resource value: 0x7f07000b
+			public const int box = 2131165195;
+			
+			// aapt resource value: 0x7f070000
+			public const int dark = 2131165184;
+			
+			// aapt resource value: 0x7f07000e
+			public const int darker = 2131165198;
+			
+			// aapt resource value: 0x7f070008
+			public const int extrabold = 2131165192;
+			
+			// aapt resource value: 0x7f070009
+			public const int extralight = 2131165193;
+			
+			// aapt resource value: 0x7f07000c
+			public const int flat = 2131165196;
+			
+			// aapt resource value: 0x7f070001
+			public const int light = 2131165185;
+			
+			// aapt resource value: 0x7f07000f
+			public const int main = 2131165199;
+			
+			// aapt resource value: 0x7f070002
+			public const int none = 2131165186;
+			
+			// aapt resource value: 0x7f07000a
+			public const int regular = 2131165194;
+			
+			// aapt resource value: 0x7f070012
+			public const int space1 = 2131165202;
+			
+			// aapt resource value: 0x7f070010
+			public const int space2 = 2131165200;
+			
+			// aapt resource value: 0x7f07000d
+			public const int transparent = 2131165197;
+			
+			// aapt resource value: 0x7f070011
+			public const int txtresult = 2131165201;
 			
 			static Id()
 			{
@@ -92,11 +262,14 @@ namespace Vangalizer
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			// aapt resource value: 0x7f050002
+			public const int ApplicationName = 2131034114;
 			
-			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			// aapt resource value: 0x7f050001
+			public const int Hello = 2131034113;
+			
+			// aapt resource value: 0x7f050000
+			public const int library_name = 2131034112;
 			
 			static String()
 			{
@@ -104,6 +277,69 @@ namespace Vangalizer
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Styleable
+		{
+			
+			public static int[] FlatUI = new int[] {
+					2130771968,
+					2130771969,
+					2130771970,
+					2130771971,
+					2130771972,
+					2130771973,
+					2130771974,
+					2130771975,
+					2130771976,
+					2130771977,
+					2130771978,
+					2130771979};
+			
+			// aapt resource value: 10
+			public const int FlatUI_backgroundColor = 10;
+			
+			// aapt resource value: 4
+			public const int FlatUI_cornerRadius = 4;
+			
+			// aapt resource value: 11
+			public const int FlatUI_customBackgroundColor = 11;
+			
+			// aapt resource value: 8
+			public const int FlatUI_fieldStyle = 8;
+			
+			// aapt resource value: 2
+			public const int FlatUI_fontFamily = 2;
+			
+			// aapt resource value: 3
+			public const int FlatUI_fontWeight = 3;
+			
+			// aapt resource value: 7
+			public const int FlatUI_isFullFlat = 7;
+			
+			// aapt resource value: 6
+			public const int FlatUI_size = 6;
+			
+			// aapt resource value: 1
+			public const int FlatUI_textAppearance = 1;
+			
+			// aapt resource value: 9
+			public const int FlatUI_textColor = 9;
+			
+			// aapt resource value: 5
+			public const int FlatUI_textPadding = 5;
+			
+			// aapt resource value: 0
+			public const int FlatUI_theme = 0;
+			
+			static Styleable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Styleable()
 			{
 			}
 		}

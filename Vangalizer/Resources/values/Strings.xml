@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
+    <string name="Hello">Go</string>
     <string name="ApplicationName">Vangalizer</string>
+  
+  <string-array name="yes">
+    <item>Да</item>
+    <item>Я в этом не сомневаюсь</item>
+    <item>Безусловно</item>
+    <item>Только глупый сомневается</item>
+    <item>На все 100%</item>
+    <item>Ну скорее всего</item>
+    <item>..или да..или нет</item>
+    <item>Может быть</item>
+    <item>Попробуй еще раз</item>
+    <item>Наверное</item>
+    <item>Нет</item>
+    <item>Точно нет</item>
+    <item>Никак нет</item>
+    <item>Даже не думай об этом</item>
+    <item>Категорически нет</item>
+    <item>Это не важно</item>
+    <item>Да, хотя зря</item>
+    <item>Никогда</item>
+    <item>1 из 100</item>
+    <item>Это не важно</item>
+  </string-array>
 </resources>
